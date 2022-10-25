@@ -6,7 +6,7 @@ Currently, I'm studiying to be a Full-Stack Web Developer, below you can check a
 
 
 ### 📫 How to reach me: 
- <a href="https://www.linkedin.com/in/lesimoess/" target="_blank">
+ <a href="https://www.linkedin.com/in/eric-chandia/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
 
