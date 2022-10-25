@@ -12,7 +12,7 @@ Currently, I'm studiying to be a Full-Stack Web Developer, below you can check a
 
 <br></br>
 <div align="center">
-  <a href="https://github.com/ericchandia">
+  <a href="https://github.com/EricChandia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericchandia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericchandia&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
