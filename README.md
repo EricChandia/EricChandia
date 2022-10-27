@@ -19,7 +19,7 @@ Currently, I'm studiying to be a Full-Stack Web Developer, below you can check a
 
   
 ### 🔭 I’m currently working on:
-Refactoring study projects with React.js, Node.js, Typescript and Prisma. Trying to improve best practices with eslint.
+Refactoring study projects with React.js, Node.js, Typescript and Prisma. Trying to implement the best practices too.
 
 
 ##### Technologies and frameworks
