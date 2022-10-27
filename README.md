@@ -2,7 +2,7 @@
 
 I'm a software developer, musician in his spare time, enthusiast of new technologies and artificial intelligence, gamer with no time to play, clumsy artist and creator of mind blowing ideas (just in my head), but you can also **call me Eric**! 😄
 
-Currently, I'm studiying to be a Full-Stack Web Developer, below you can check all projects, skills and info. If you like anything (or not) feel free to contact me.
+Currently, I'm studiying to be a Full-Stack Web Developer, below you can check all projects, skills and info about me. If you like anything (or not) feel free to contact me.
 
 
 ### 📫 How to reach me: 
