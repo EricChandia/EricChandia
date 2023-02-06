@@ -1,6 +1,6 @@
-## Hi there!
+## Hello <s>World</s> friend!!!
 
-I'm Eric, a software developer, musician in spare time, enthusiast of new technologies and artificial intelligence, gamer with no time to play, clumsy artist and creator of mind blowing ideas 😄
+My name's Eric, I'm a software developer, musician in spare time, enthusiast of new technologies and artificial intelligence, gamer with no time to play and often a  clumsy artist too 😄
 
 Currently, I'm studiying to be a Full-Stack Web Developer, below you can check all projects, skills and info about me. If you like anything (or not) feel free to contact me.
 
