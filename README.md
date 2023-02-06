@@ -43,8 +43,6 @@ Refactoring study projects with React.js, Node.js, Typescript and Prisma. Trying
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
-![Waka](https://wakatime.com/badge/user/6f642e3c-1b4f-4531-ab67-f8a70ba7795e.svg)
 
 <!--
 **EricChandia/EricChandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
