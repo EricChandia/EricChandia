@@ -1,9 +1,8 @@
 ## Hello <s>World</s> friend!!!
 
-My name's Eric, I'm a software developer, musician in spare time, enthusiast of new technologies and artificial intelligence, gamer with no time to play and often a  clumsy artist too 😄
+I'm Eric, a software developer, musician in spare time, enthusiast of new technologies and artificial intelligence, and sometimes a gamer (currently with no time to play 🥲).
 
-Currently, I'm studiying to be a Full-Stack Web Developer, below you can check all projects, skills and info about me. If you like anything (or not) feel free to contact me.
-
+Now I'm studiying to be a Full-Stack Web Developer, below you can check all my projects, skills and info about me. If you like anything (or not) feel free to contact me.
 
 ### 📫 How to reach me: 
  <a href="https://www.linkedin.com/in/eric-chandia/" target="_blank">
@@ -19,7 +18,7 @@ Currently, I'm studiying to be a Full-Stack Web Developer, below you can check a
 
   
 ### 🔭 I’m currently working on:
-Refactoring study projects with React.js, Node.js, Typescript and Prisma. Trying to implement the best practices too.
+Refactoring study projects with React.js, Node.js, Typescript and Prisma. Studying more about SOLID and best practices.
 
 
 ##### Technologies and frameworks
