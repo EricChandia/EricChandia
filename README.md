@@ -2,7 +2,7 @@
 
 I'm <strong>Eric</strong>, software developer, musician in spare time, enthusiast of new technologies and artificial intelligence, and sometimes a gamer (currently with no time to play 🥲).
 
-Here you can check all my projects, skills and info about me. If you like anything (or not) feel free to contact me.
+Here you can check all my projects and skills. If you like anything (or not) feel free to contact me.
 
 ## 📫 How to reach me: 
  <a href="https://www.linkedin.com/in/eric-chandia/" target="_blank">
