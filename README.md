@@ -1,22 +1,21 @@
-## Hello <s>World</s> friend!!!
+## Hello <s>World</s> Friend!!!
 
-I'm Eric, a software developer, musician in spare time, enthusiast of new technologies and artificial intelligence, and sometimes a gamer (currently with no time to play 🥲).
+I'm <strong>Eric</strong>, software developer, musician in spare time, enthusiast of new technologies and artificial intelligence, and sometimes a gamer (currently with no time to play 🥲).
 
-Now I'm studiying to be a Full-Stack Web Developer, here you can check all my projects, skills and info about me. If you like anything (or not) feel free to contact me.
+Here you can check all my projects, skills and info about me. If you like anything (or not) feel free to contact me.
 
 ### 📫 How to reach me: 
  <a href="https://www.linkedin.com/in/eric-chandia/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
+ <a href = "mailto:eric.chandia.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+ </a>
 
-<br></br>
-<div align="center">
-  <a href="https://github.com/EricChandia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericchandia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericchandia&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
 
-  
+### ⭐ Stats
+![GitHub Stats](https://github-readme-stats-sooty-theta.vercel.app/api?username=EricChandia&include_all_commits=true&count_private=true&theme=tokyonight)
+[![Eric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericchandia&layout=compact&hide_progress=true&theme=tokyonight&custom_title=Most%20Used%20Languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 🔭 I’m currently working on:
 Refactoring study projects with React.js, Node.js, Typescript and Prisma. Studying more about SOLID and best practices.
 
