@@ -17,10 +17,10 @@ Here you can check all my projects, skills and info about me. If you like anythi
 
 
 ### 🔭 I’m currently working on:
-Refactoring study projects with React.js, Node.js, Typescript and Prisma. Studying more about SOLID and best practices.
+Refactoring study projects with React.js, Node.js, Typescript and Prisma. Studying more about SOLID, software architecture and best practices.
 
 
-##### Technologies and frameworks
+### Technologies and frameworks
 
 Back-End: <br />
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
