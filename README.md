@@ -13,6 +13,7 @@ Here you can check all my projects and skills. If you like anything (or not) fee
 
 ## ⭐ Stats
 ![GitHub Stats](https://github-readme-stats-sooty-theta.vercel.app/api?username=EricChandia&include_all_commits=true&count_private=true&theme=tokyonight)
+
 [![Eric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericchandia&layout=compact&hide_progress=true&theme=tokyonight&custom_title=Most%20Used%20Languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
