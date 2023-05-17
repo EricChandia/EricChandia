@@ -1,6 +1,6 @@
 ## Hello <s>World</s> Friend!!!
 
-I'm <strong>Eric</strong>, software developer, musician in spare time, enthusiast of new technologies and artificial intelligence, and sometimes a gamer (currently with no time to play 🥲).
+I'm <strong>Eric</strong>, software developer, enthusiast of new technologies and artificial intelligence, and sometimes a musician (currently with no time to play 🥲).
 
 Here you can check all my projects and skills. If you like anything (or not) feel free to contact me.
 
