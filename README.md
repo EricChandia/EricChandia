@@ -18,7 +18,7 @@ Here you can check all my projects and skills. If you like anything (or not) fee
 
 
 ## 🔭 I’m currently working on:
-Refactoring study projects with React.js, Node.js, Typescript and Prisma. Studying more about SOLID, software architecture and best practices.
+Working as a freelancer in different projects, with React.js 17, Next 14, Tailwind, .NET C# and other new technologies. Always studying JAVA <3.
 
 
 ## Technologies and frameworks
